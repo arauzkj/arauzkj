@@ -100,23 +100,23 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kjarj54&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=arauzkj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kjarj54&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="180" alt="languages graph"  />
 </div>
 
 ###
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kjarj54&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=arauzkj&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kjarj54&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=arauzkj&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/kjarj54/kjarj54/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/arauzkj/arauzkj/output/snake.svg" alt="Snake animation" />
 
 ###
 
